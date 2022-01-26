@@ -1,4 +1,4 @@
 # go-zap-logger
 
-[](https://github.com/uber-go/za)
-[](https://github.com/bigwhite/experiments)
+[zap](https://github.com/uber-go/zap)
+[zap-experiments](https://github.com/bigwhite/experiments)
